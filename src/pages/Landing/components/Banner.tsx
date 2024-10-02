@@ -1,5 +1,6 @@
 import React from "react";
-import Landing from "../../assets/images/landing.png";
+import Landing from '../../../assets/images/landing.png';
+
 
 const Banner = () => {
   return (
