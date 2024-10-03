@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import Banner from "./components/Banner";
 import ContactUs from "./components/ContactUs";
@@ -25,6 +26,7 @@ const LandingPage = () => {
       <Faq/>
       <News/>
       <ContactUs/>
+      <Footer/>
       
     </div>
   );
