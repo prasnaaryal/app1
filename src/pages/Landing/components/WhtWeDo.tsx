@@ -11,7 +11,7 @@ const WhtWeDo = () => {
         <h1 className="font-semibold text-2xl mb-4 ">WHO WE ARE</h1>
         <h1 className="text-3xl mb-8">Empowering Your Nursing Journey</h1>
 
-        <span>
+        <span className="font-poppins">
           At Glider Healthcare, we're here to guide you toward a fulfilling and
           successful nursing career. Our expert team specializes in helping
           aspiring nurses like you find the perfect educational path and launch

@@ -10,8 +10,8 @@ const EmailBox = () => {
           journey.
         </span>
       </div>
-      <div className="col-span-6 mt-10 ml-14">
-        <input type="email" placeholder="Your Email" className="w-[450px] h-[50px] rounded-md mb-4 " ></input>
+      <div className="col-span-6 mt-10 ml-14 font-poppins space-y-4">
+        <input type="email" placeholder="Your Email" className="w-[450px] h-[50px] rounded-md px-4 " ></input>
         <button className="bg-[#E9A727] text-white w-52 h-12 rounded-md">
             Enroll Now
           </button>
